@@ -3,7 +3,7 @@ import PackageDescription
 
 let vlcBinary = Target.binaryTarget(
     name: "VLCKit",
-    url: "https://github.com/virtualox/vlckit-spm/releases/download/4.0.0-alpha.19/VLCKit.xcframework.zip",
+    url: "https://github.com/streamx-labs/vlckit-spm/releases/download/4.0.0-alpha.19/VLCKit.xcframework.zip",
     checksum: "6ed0e711d9722d05141fc7bbb63989c1af2a9ee0b99ce5cd626cc787089eeaf1"
 )
 
